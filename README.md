@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello World!,👋 I'm Ramprasath MK
 
 <!--
-**tsxkyle/tsxkyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ramprasath-Codes/Ramprasath-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsxkyle&theme=tokyonight)
+[AAMEC]: https://www.aamec.edu.in/
+
+[![](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=10)](https://visitcount.itsvg.in)
+
+- 🌱 I’m currently pursuing Bachelor's Degree🎓 in Information Technology at [AAMEC][AAMEC].
+- 👯 I’m looking to collaborate on latest technologies
+- 📫 How to reach me: [@Insta](https://www.instagram.com/ramprasathmk_/) [@X](https://x.com/ramprasathmk/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **There’s a planet made of diamonds**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramprasath-Codes&theme=tokyonight)
