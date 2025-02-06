@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 [**My Current GitHub Account**](https://github.com/ramprasathmk/)
 
-- 🌱 I’m currently pursuing Bachelor's Degree🎓 in Information Technology at [AAMEC][AAMEC].
-- 👯 I’m looking to collaborate on latest technologies
-- 📫 How to reach me: [@Insta](https://www.instagram.com/ramprasathmk_/) [@X](https://x.com/ramprasathmk/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: **There’s a planet made of diamonds**
+- 🌱 I’m currently pursuing Bachelor's Degree🎓 in Information Technology at [AAMEC][AAMEC]. 
+- 👯 I’m looking to collaborate on web technologies. 
+- 📫 How to reach me: [@X](https://x.com/ramprasathmk/) [@LinkedIn](https://www.linkedin.com/in/ramprasathmk12/) 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: **There’s a planet made of diamonds** 
 
 
 ## 💻 Professional Skillset
