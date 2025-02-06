@@ -53,6 +53,4 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
 
 # 🎲 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramprasath-Codes&theme=tokyonight)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasath-Codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramprasath-Codes&theme=monokai&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramprasath-Codes&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
